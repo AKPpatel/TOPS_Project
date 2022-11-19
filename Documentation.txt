@@ -1,0 +1,44 @@
+
+
+							Project Defination :- Fitness Management System
+
+
+								** Three Module ****
+
+
+					1) Admin
+
+						- Login
+ 						- Add Facility
+					        - Manage Facility
+ 						- Add Membership
+ 						- Manage Membership
+ 						- Manage User
+ 						- Manage Traineer
+ 						- Manage Salary for Traineer
+ 						- Manage Feedback
+ 						- Logout
+
+
+					2) User
+
+ 						- Registration
+ 						- Login
+						- Search Membership
+ 						- View Membership Plan
+ 						- View Schedule
+ 						- New Add Membership
+ 						- Renew Membership
+ 						- Payment Method
+ 						- Give Feedback
+ 						- Logout
+
+					3) Traineer
+
+ 						- Registration
+ 						- Login
+ 						- Manage Schedule
+ 						- View User
+ 						- Manage User
+ 						- Give Feedback
+ 						- Logout
